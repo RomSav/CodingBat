@@ -6,16 +6,19 @@ public class Main {
 
     public static void main(String[] args) {
         Warmap_1 warmap = new Warmap_1();
-        System.out.println("sleepIn (" + warmap.weekday + "," + warmap.vecation + ") -> " + warmap.sl);
-        System.out.println("monkeytrable (" + warmap.aSmile + "," + warmap.bSmile + ") -> " + warmap.sm);
-        System.out.println("sumdouble (" + warmap.a + "," + warmap.b + ") -> " + warmap.sD);
-        System.out.println("diff21 (" + warmap.c + ") -> " + warmap.diff);
-        System.out.println("parrottrouble(" + warmap.talk + "," + warmap.hour + ") -> " + warmap.pattot);
-        System.out.println("makes10(" + warmap.d + "," + warmap.e + ") -> " + warmap.makes);
-        System.out.println("postNeg(" + warmap.f + "," + warmap.g + "," + warmap.neg + " ) -> " + warmap.pN);
-        System.out.println("notString (" + warmap.boolStr + ") ->" + warmap.not);
-        System.out.println("missingChar (" + warmap.l + "," + warmap.m + ") -> " + warmap.miss);
-        System.out.println("frontbask ("+warmap.n+") -> "+warmap.front);
+//        System.out.println("sleepIn (" + warmap.weekday + "," + warmap.vecation + ") -> " + warmap.sl);
+//        System.out.println("monkeytrable (" + warmap.aSmile + "," + warmap.bSmile + ") -> " + warmap.sm);
+//        System.out.println("sumdouble (" + warmap.a + "," + warmap.b + ") -> " + warmap.sD);
+//        System.out.println("diff21 (" + warmap.c + ") -> " + warmap.diff);
+//        System.out.println("parrottrouble(" + warmap.talk + "," + warmap.hour + ") -> " + warmap.pattot);
+//        System.out.println("makes10(" + warmap.d + "," + warmap.e + ") -> " + warmap.makes);
+//        System.out.println("postNeg(" + warmap.f + "," + warmap.g + "," + warmap.neg + " ) -> " + warmap.pN);
+//        System.out.println("notString (" + warmap.boolStr + ") ->" + warmap.not);
+//        System.out.println("missingChar (" + warmap.l + "," + warmap.m + ") -> " + warmap.miss);
+//        System.out.println("frontbask ("+warmap.n+") -> "+warmap.front);
+//        System.out.println("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
+        Warmup_2 w_2=new Warmup_2();
+        w_2.warmup2();
     }
 }
 
